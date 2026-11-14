@@ -116,11 +116,11 @@ Open Retail_Store_Sales.ipynb and run the cells in order. Keep the CSV and Excel
 ## Dashboard / Visualization Preview
 Add the exported chart images to your repository (for example, in an images/ folder) and use the following Markdown image links:
 
-![Retail Sales Revenue Trend](images/revenue_trend.png)
-![Total Sales Revenue by Store City](images/city_sales.png)
-![Sales Share by Product Category](images/category_share.png)
-![Unit Price vs Quantity by Category](images/price_quantity.png)
-![Average Net Profit by Payment Method](images/profit_by_payment_method.png)
+![Retail Sales Revenue Trend](https://github.com/mugil26/Retail-Store-Sales-Performance-Analysis/blob/main/Screenshot%202026-11-14%20161909.png)
+![Total Sales Revenue by Store City](https://github.com/mugil26/Retail-Store-Sales-Performance-Analysis/blob/main/Screenshot%202026-11-14%20161935.png)
+![Sales Share by Product Category](https://github.com/mugil26/Retail-Store-Sales-Performance-Analysis/blob/main/Screenshot%202026-11-14%20161955.png)
+![Unit Price vs Quantity by Category](https://github.com/mugil26/Retail-Store-Sales-Performance-Analysis/blob/main/Screenshot%202026-11-14%20162017.png)
+![Average Net Profit by Payment Method](https://github.com/mugil26/Retail-Store-Sales-Performance-Analysis/blob/main/Screenshot%202026-11-14%20162035.png)
 
 ## Final Conclusion
 This retail sales analysis provides a structured view of transaction revenue, category contribution, store-city performance, and profitability. The results show that Electronics is the leading revenue category in the analyzed dataset. By combining data cleaning checks, statistical summaries, derived business metrics, grouping, and visualizations, the project demonstrates how Python can turn raw retail transaction data into insights that support sales monitoring and business decision-making.
