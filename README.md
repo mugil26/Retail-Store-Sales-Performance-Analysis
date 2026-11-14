@@ -5,7 +5,7 @@ This project explores retail transaction data to understand sales performance, r
 
 The analysis covers 800 retail transactions recorded from January to June 2025, across three product categories and six store cities.
 
-##Key Features
+## Key Features
 
 - Dataset inspection and data-type analysis
 - Missing-value checks and descriptive statistics
@@ -86,10 +86,10 @@ The project generates the following charts:
 ## Libraries Used
 
 Library	Purpose
-Pandas	Reading CSV and Excel files, inspecting data, filtering, sorting, grouping, and aggregating transactions
-NumPy	Numerical calculations, array operations, conditional tagging, and statistical summaries
-Matplotlib	Creating line, bar, and pie charts
-Seaborn	Creating the category-based scatter plot
+Pandas	Reading CSV and Excel files, inspecting data, filtering, sorting, grouping, and aggregating transactions.
+NumPy	Numerical calculations, array operations, conditional tagging, and statistical summaries.
+Matplotlib	Creating line, bar, and pie charts.
+Seaborn	Creating the category-based scatter plot.
 
 
 ## Project Files
