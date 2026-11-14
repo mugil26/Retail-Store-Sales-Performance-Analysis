@@ -85,11 +85,12 @@ The project generates the following charts:
 
 ## Libraries Used
 
-Library	Purpose
-Pandas	Reading CSV and Excel files, inspecting data, filtering, sorting, grouping, and aggregating transactions.
-NumPy	Numerical calculations, array operations, conditional tagging, and statistical summaries.
-Matplotlib	Creating line, bar, and pie charts.
-Seaborn	Creating the category-based scatter plot.
+| **Library** | **Purpose**                                                                                               |
+| ----------- | --------------------------------------------------------------------------------------------------------- |
+| Pandas      | Reading CSV and Excel files, inspecting data, filtering, sorting, grouping, and aggregating transactions. |
+| NumPy       | Numerical calculations, array operations, conditional tagging, and statistical summaries.                 |
+| Matplotlib  | Creating line, bar, and pie charts.                                                                       |
+| Seaborn     | Creating the category-based scatter plot.                                                                 |
 
 
 ## Project Files
